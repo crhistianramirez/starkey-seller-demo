@@ -5,7 +5,7 @@
 export const environment = {
   production: true,
   clientID: 'DF78370D-3660-4A1D-9FBD-590DA3C24067',
-  buyerID: 'initBuyer',
+  buyerID: 'allchalkedup',
   buyerClientID: 'EA76F6B9-4CF2-4E46-A199-492286AE22FB',
   buyerUrl: 'localhost:1000',
   middlewareUrl: 'my-middleware-url.com/api',
