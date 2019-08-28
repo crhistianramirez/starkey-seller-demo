@@ -2,7 +2,7 @@ import { InjectionToken } from '@angular/core';
 import { environment } from '../../environments/environment';
 
 export const ocAppConfig: AppConfig = {
-  appname: 'Starkey Admin',
+  appname: 'All Chalked Up Admin',
   clientID: environment.clientID,
   middlewareUrl: environment.middlewareUrl,
   buyerID: environment.buyerID,
