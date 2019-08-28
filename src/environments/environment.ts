@@ -4,9 +4,9 @@
 
 export const environment = {
   production: true,
-  clientID: 'DF78370D-3660-4A1D-9FBD-590DA3C24067',
+  clientID: 'C9D7D4C2-3F5F-4763-BC6B-77C5D978A2F5',
   buyerID: 'initBuyer',
-  buyerClientID: 'EA76F6B9-4CF2-4E46-A199-492286AE22FB',
+  buyerClientID: '9F6E0D67-529F-4460-8236-30B375A025F0',
   buyerUrl: 'localhost:1000',
   middlewareUrl: 'my-middleware-url.com/api',
 };
